@@ -1,0 +1,15 @@
+header div{
+    background-image: url('./img/pattern.png');
+    height: 130px;
+    background-color: #4EA0FF;
+    background-size: contain;
+    margin-left: 0;
+    
+}
+
+div img{
+    height: 60px;
+    padding-top: 60px;
+    padding-left: 10px;
+}
+
