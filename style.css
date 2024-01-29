@@ -1,6 +1,4 @@
-body{
-    font-weight: 600;
-}
+
 
 header div{
     background-image: url('./img/pattern.png');
@@ -48,4 +46,24 @@ a{
 }
 .highlight{
     background-color: yellow;
+}
+ th{
+    font-weight: 600;
+    color: white;
+    background-color: #20A9E5;
+
+ }
+/* table size column */
+.venticinque{
+    width: 25%;
+}
+.cinquanta{
+    width: 50%;
+}
+.cella{
+    text-align: center;
+}
+
+.blu{
+    background-color:#B1E5F2 ;
 }
