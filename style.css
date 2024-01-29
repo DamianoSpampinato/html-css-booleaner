@@ -13,3 +13,31 @@ div img{
     padding-left: 10px;
 }
 
+
+/* sezione articolo */
+article h1{
+    margin-bottom: 0;
+}
+
+.sotto-testo{
+    color: #808080;
+    font-size: 20px;
+}
+
+a{
+    color: #20A9E5;
+    text-decoration: none;
+}
+.piccolo{
+    font-size: 15px;
+}
+
+#tim-1{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.foto-info{
+    font-weight: 600;
+    font-size: 10px;
+}
